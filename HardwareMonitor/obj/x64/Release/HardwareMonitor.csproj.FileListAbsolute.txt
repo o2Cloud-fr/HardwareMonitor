@@ -1,0 +1,12 @@
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\bin\x64\Release\HardwareMonitor.exe.config
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\bin\x64\Release\HardwareMonitor.exe
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\bin\x64\Release\HardwareMonitor.pdb
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\obj\x64\Release\HardwareMonitor.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\obj\x64\Release\HardwareMonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\obj\x64\Release\HardwareMonitor.Form1.resources
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\obj\x64\Release\HardwareMonitor.Properties.Resources.resources
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\obj\x64\Release\HardwareMonitor.csproj.GenerateResource.cache
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\obj\x64\Release\HardwareMonitor.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\obj\x64\Release\HardwareMonitor.exe
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\obj\x64\Release\HardwareMonitor.pdb
+C:\Users\MyAlien\source\repos\HardwareMonitor\HardwareMonitor\obj\x64\Release\HardwareMonitor.Form2.resources
